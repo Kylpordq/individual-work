@@ -17,30 +17,33 @@
 ## 3. Краткая документация к проекту 
 
 Стек, используемый в приложении технологий:
-
-BACKEND                
-
-Node js  
-
-Postgresql 
-
-sequelize 
-
-express 
-
-Jwt
-
-FRONTEND
-
- React js   
- 
-Axios
-
- React-routerdom 
- 
-React-bostrap
-
- MobX
+<table>
+    <tr>
+        <th>BACKEND</th>
+        <th>FRONTEND</th>
+    </tr>
+    <tr>
+        <td>Node js</td>
+        <td>React js</td>
+    </tr>
+    <tr>
+       <td>Postgresql</td>
+      <td>Axios</td>
+    </tr>
+     <tr>
+          <td>sequelize</td>
+      <td> React-routerdom  </td>
+    </tr>
+   <tr>
+          <td>express</td>
+      <td>React-bostrap</td>
+    </tr>
+  <tr>
+        <td>Jwt</td>
+        <td> MobX </td>
+    </tr>
+</table>
+   
 
 Содержание.
 
