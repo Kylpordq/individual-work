@@ -83,10 +83,13 @@ React-bostrap
 Функциональные возможности.
 
 В приложение реализованы регистрация и авторизация
+
 ![image](https://github.com/user-attachments/assets/2b57b05b-ead3-4b57-83a9-7fe32ffe4a40)
+
 ![image](https://github.com/user-attachments/assets/5b4e67aa-5195-4405-8357-363133b4b378)
 
 Также присутствует разделение на роли, в частности, Админ и обычный пользователь
+
 ![image](https://github.com/user-attachments/assets/d7b40e70-d4b4-46e3-9f39-8fb0af914080)
 
 Админу доступна панель с дополнительными возможностями, например добавить книгу, жанр или язык
@@ -96,10 +99,13 @@ React-bostrap
 ![image](https://github.com/user-attachments/assets/8c55f604-fb30-407f-b877-c8389bedda60)
 
 Сам сайт представляет собой онлайн магазин книг с выбором по жанру и языку книги, также реализована пагинация  
+
 ![image](https://github.com/user-attachments/assets/fbd2922c-e8c2-4936-aa4a-b30aece44f29)
+
 ![image](https://github.com/user-attachments/assets/c6de746b-594c-4887-8e17-bf3e9d406366)
 
 При нажатии на одну из книг мы увидим дополнительную информацию о ней 
+
 ![image](https://github.com/user-attachments/assets/bdcb5635-2c20-486a-94ee-b748469e4f98)
 
 Сценарии взаимодействия пользователей с приложением.
