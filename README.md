@@ -122,21 +122,20 @@ React-bostrap
 
 
 
-## 5. Ответы на контрольные вопросы
 
-$_POST - суперглобальный массив, содержащий данные, отправленные медотом POST.
 
-$_SERVER["PHP_SELF"]- возвращает путь к текущему скрипту, используется как action, чтобы отправить форму на ту же страницу
+https://github.com/user-attachments/assets/c4c88ddf-5ef0-4d31-8bbe-e36eeeee8484
 
-$_REQUEST - Объединяет $_GET, $_POST B $_COOKIE. Имеет проблемы с безопасностью.
 
-$_POST - массив, содержащий данные из формы, отправленные методом POST.
 
 ## 6. Список использованных источников
 
-https://metanit.com/php/tutorial/3.4.php
+https://metanit.com/php/tutorial/3.4.php](https://learn.javascript.ru
 
-https://www.php.net/manual/ru/tutorial.forms.php
+https://ru.reactjs.org/
+
+
+
 
 
 
